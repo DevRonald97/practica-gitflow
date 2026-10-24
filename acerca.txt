@@ -1,0 +1,27 @@
+PRÁCTICA GITFLOW
+================
+
+Proyecto: practica-gitflow
+Autor: Ronald Padilla Carrillo
+Curso: Git/ GitHub
+
+DESCRIPCIÓN
+Repositorio de la práctica final de Consola y Git. Su objetivo es aplicar
+los comandos de consola y Git estudiados durante el curso: gestión de
+archivos, ciclo de vida de los cambios y sincronización con GitHub,
+siguiendo la metodología Gitflow.
+
+METODOLOGÍA
+Se trabaja con las siguientes ramas:
+- main: rama de producción, contiene el código estable.
+- develop: rama de desarrollo, integra las nuevas funcionalidades.
+- feature/*: ramas para nuevas funcionalidades (feature/login).
+- hotfix/*: correcciones urgentes sobre producción (hotfix/error-index).
+- release/*: preparación de lanzamientos (release/v1.0.0).
+
+ARCHIVOS DEL PROYECTO
+- index.txt: página de bienvenida.
+- acerca.txt: información del proyecto.
+- login.txt: contenido del formulario de acceso.
+- registro.txt: contenido del formulario de registro.
+- .gitignore: ignora archivos .tmp y carpetas node_modules/.
