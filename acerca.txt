@@ -25,3 +25,5 @@ ARCHIVOS DEL PROYECTO
 - login.txt: contenido del formulario de acceso.
 - registro.txt: contenido del formulario de registro.
 - .gitignore: ignora archivos .tmp y carpetas node_modules/.
+
+-version 1.0.0
